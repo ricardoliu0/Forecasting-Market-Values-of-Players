@@ -32,7 +32,8 @@ The coefficients describe model-based associations and should not be interpreted
 
 ## Data
 
-The processed player datasets will be added to the `data2/` directory in a separate upload. Model scripts require these files before they can run.
+Processed player datasets are provided in `data2/`.
+Raw player datasets are provided in `data/`.
 
 Each processed CSV contains the following columns:
 
